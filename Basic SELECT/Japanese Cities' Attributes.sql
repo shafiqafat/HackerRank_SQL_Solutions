@@ -1,1 +1,3 @@
-Select *from city where countrycode = "JPN";
+Select *
+from city 
+where countrycode = "JPN";
