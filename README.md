@@ -1,5 +1,6 @@
 # HackerRank_SQL_Solutions
-https://www.hackerrank.com/certificates/366f5571f23e
+![image](https://github.com/shafiqafat/HackerRank_SQL_Solutions/assets/90058132/62c6e634-7923-4097-a962-5cff50af8411)
+
 
 
 # DESCRIPTION
